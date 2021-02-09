@@ -2,6 +2,30 @@
   {
     "core_with_assist": [
       {
+        "id": 401,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/88bdc94752fc95e6eacb4d6deca443a0a9a0d122.png",
+        "name": "大米"
+      },
+      {
+        "id": 405,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/f40e1f91e2b48bc594d73002d66a29acbb7c096a.png",
+        "name": "香料"
+      }
+    ],
+    "id": 301,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/ab9831b79d411935478b233e256a898d8b81e14b.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "鸡蛋冻",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
         "id": 402,
         "img": "http://i0.hdslb.com/bfs/bangumi/image/ff7147a745472f8e95b444e88f559a1e94528162.png",
         "name": "面粉"
@@ -19,7 +43,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "叉烧肉",
-    "num": 5,
+    "num": 6,
     "rarity": "",
     "type": 3
   },
@@ -103,7 +127,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "生姜酱",
-    "num": 2,
+    "num": 3,
     "rarity": "",
     "type": 3
   },
@@ -415,7 +439,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "肯达基本地鸡",
-    "num": 4,
+    "num": 6,
     "rarity": "",
     "type": 3
   },
@@ -463,7 +487,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "北京填鸭",
-    "num": 1,
+    "num": 2,
     "rarity": "",
     "type": 3
   },
@@ -571,7 +595,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "打折牛排",
-    "num": 3,
+    "num": 4,
     "rarity": "",
     "type": 3
   },
@@ -595,7 +619,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "甜甜圈",
-    "num": 4,
+    "num": 5,
     "rarity": "",
     "type": 3
   },
@@ -672,6 +696,18 @@
     "type": 3
   },
   {
+    "id": 345,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/d51c5cffed7bd6056b2aba86ba73662ec62ebafc.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "低筋小麦粉",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
     "id": 346,
     "img": "http://i0.hdslb.com/bfs/bangumi/image/951f042b92dd7ba0edd5df2ef83c9071af5cc4c5.png",
     "is_can_compose": false,
@@ -727,7 +763,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "蘑菇大杂烩",
-    "num": 7,
+    "num": 8,
     "rarity": "",
     "type": 3
   },
@@ -751,7 +787,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "胡萝卜和干果",
-    "num": 1,
+    "num": 3,
     "rarity": "",
     "type": 3
   },
