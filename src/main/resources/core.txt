@@ -1,0 +1,1022 @@
+[
+  {
+    "core_with_assist": [
+      {
+        "id": 402,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/ff7147a745472f8e95b444e88f559a1e94528162.png",
+        "name": "面粉"
+      },
+      {
+        "id": 409,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/2c6d12ab960b455cd9afd043a2cc5da223b9e147.png",
+        "name": "蔬菜"
+      }
+    ],
+    "id": 302,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/748265c88e338b7a93fa4ffc7666ce857a319bf6.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "叉烧肉",
+    "num": 5,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 403,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/9a99d779235d68bf9795bc6d46e5f8544509af2c.png",
+        "name": "水"
+      },
+      {
+        "id": 451,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/664eeb3795802cb6c15f2f8c2512ad86141f476f.png",
+        "name": "威士忌"
+      }
+    ],
+    "id": 304,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/6eb54d711bf9da8ef419754f58c998f18e791e59.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "生命之水",
+    "num": 2,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "id": 305,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/33c4d702494e10b7f2dfb41e44c500830a41b972.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "食用色素",
+    "num": 2,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 405,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/f40e1f91e2b48bc594d73002d66a29acbb7c096a.png",
+        "name": "香料"
+      },
+      {
+        "id": 403,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/9a99d779235d68bf9795bc6d46e5f8544509af2c.png",
+        "name": "水"
+      }
+    ],
+    "id": 307,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/e91dbb27998cde840205dc28b26e6cfe6d4eda45.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "杂菌",
+    "num": 5,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 406,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/afa4b78a775bc821367cfe37267bf60fe7df3c03.png",
+        "name": "鸡肉"
+      },
+      {
+        "id": 403,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/9a99d779235d68bf9795bc6d46e5f8544509af2c.png",
+        "name": "水"
+      }
+    ],
+    "id": 308,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/02f8fd1cbbaa94ca2b0fcb06b11cfec0ca6d55d5.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "生姜酱",
+    "num": 2,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "id": 310,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/6e57a0eccd033a6ec544451a49e71e3d15645e0e.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "欧馊玛",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 402,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/ff7147a745472f8e95b444e88f559a1e94528162.png",
+        "name": "面粉"
+      },
+      {
+        "id": 452,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/f49229d20a7373f1cb9e12b4c4a4dbcb83e6dc94.png",
+        "name": "黄油"
+      }
+    ],
+    "id": 311,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/ce18d0f1e9b65bc5fdeeaf5e9d5e67535bef05aa.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "雷格姆的蛋",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 403,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/9a99d779235d68bf9795bc6d46e5f8544509af2c.png",
+        "name": "水"
+      },
+      {
+        "id": 413,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/3e1eff9b82e42cf62e7766e0b2f825895479a03b.png",
+        "name": "鸡蛋"
+      }
+    ],
+    "id": 312,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/8e5743c090154cb37bf80698cf531b76d7fc9a41.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "狗尾巴草面粉",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 405,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/f40e1f91e2b48bc594d73002d66a29acbb7c096a.png",
+        "name": "香料"
+      },
+      {
+        "id": 401,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/88bdc94752fc95e6eacb4d6deca443a0a9a0d122.png",
+        "name": "大米"
+      }
+    ],
+    "id": 313,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/d1f31a9cbc36c06a7d656791ddeaa9d0c1ef11eb.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "青花鱼罐头",
+    "num": 4,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 403,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/9a99d779235d68bf9795bc6d46e5f8544509af2c.png",
+        "name": "水"
+      },
+      {
+        "id": 411,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/33bd1ab507f3ddf5b98a64a33f4845d7744871fe.png",
+        "name": "糖"
+      }
+    ],
+    "id": 315,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/c92c4cecf3f45920b1aa7cb1cdcdf6eb0c43eafe.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "红小豆",
+    "num": 3,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 409,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/2c6d12ab960b455cd9afd043a2cc5da223b9e147.png",
+        "name": "蔬菜"
+      },
+      {
+        "id": 403,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/9a99d779235d68bf9795bc6d46e5f8544509af2c.png",
+        "name": "水"
+      }
+    ],
+    "id": 316,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/8aa9ea6cd603e4411fd06729c74a2e49d500a1d9.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "牛杂",
+    "num": 5,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 410,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/d067ba63e945d0526085f6ebd4199e41b78c3fc2.png",
+        "name": "牛肉"
+      },
+      {
+        "id": 403,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/9a99d779235d68bf9795bc6d46e5f8544509af2c.png",
+        "name": "水"
+      }
+    ],
+    "id": 317,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/dd361d41d70abe2b32ab1822bf9f7c1a8b7a7ec2.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "牛丸",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 406,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/afa4b78a775bc821367cfe37267bf60fe7df3c03.png",
+        "name": "鸡肉"
+      },
+      {
+        "id": 407,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/21e851aa54bd82f25dfadf48f5ae73ded131bb0b.png",
+        "name": "油"
+      }
+    ],
+    "id": 318,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/4e65d748ce34c35ed95b46e1d9caa1f926c8e2f2.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "海参",
+    "num": 2,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "id": 321,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/cf0184c90cfd032aa9f4ef3dc13a77dd03aa7e1b.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "桂花",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 401,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/88bdc94752fc95e6eacb4d6deca443a0a9a0d122.png",
+        "name": "大米"
+      },
+      {
+        "id": 403,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/9a99d779235d68bf9795bc6d46e5f8544509af2c.png",
+        "name": "水"
+      }
+    ],
+    "id": 323,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/e044e130d4eb3530799447248f75f25ab35c1a2c.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "三叶的唾液",
+    "num": 3,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 402,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/ff7147a745472f8e95b444e88f559a1e94528162.png",
+        "name": "面粉"
+      },
+      {
+        "id": 405,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/f40e1f91e2b48bc594d73002d66a29acbb7c096a.png",
+        "name": "香料"
+      }
+    ],
+    "id": 325,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/bda19dca8fc107b7ad211faa2c56e8dde626807d.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "油泼辣子",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 402,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/ff7147a745472f8e95b444e88f559a1e94528162.png",
+        "name": "面粉"
+      },
+      {
+        "id": 412,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/adf99d4e5005e2d89ce3751743b655f4ac708fc9.png",
+        "name": "酱料"
+      }
+    ],
+    "id": 326,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/220ae7e55ea000163db348345fc0c4f30e0ba116.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "鸡蛋韭菜馅料",
+    "num": 3,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 401,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/88bdc94752fc95e6eacb4d6deca443a0a9a0d122.png",
+        "name": "大米"
+      },
+      {
+        "id": 409,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/2c6d12ab960b455cd9afd043a2cc5da223b9e147.png",
+        "name": "蔬菜"
+      }
+    ],
+    "id": 327,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/dcb6d848e87656c718a894e0d006122c6852313c.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "海苔味薯片",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 402,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/ff7147a745472f8e95b444e88f559a1e94528162.png",
+        "name": "面粉"
+      },
+      {
+        "id": 407,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/21e851aa54bd82f25dfadf48f5ae73ded131bb0b.png",
+        "name": "油"
+      }
+    ],
+    "id": 328,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/e9d5f538f656eb8789d02630f853dd67b2eeba37.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "肯达基本地鸡",
+    "num": 4,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 402,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/ff7147a745472f8e95b444e88f559a1e94528162.png",
+        "name": "面粉"
+      },
+      {
+        "id": 409,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/2c6d12ab960b455cd9afd043a2cc5da223b9e147.png",
+        "name": "蔬菜"
+      }
+    ],
+    "id": 329,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/87853c239e8c0b3293856808fb1e39321252f025.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "蟹堡王肉饼",
+    "num": 3,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 412,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/adf99d4e5005e2d89ce3751743b655f4ac708fc9.png",
+        "name": "酱料"
+      },
+      {
+        "id": 409,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/2c6d12ab960b455cd9afd043a2cc5da223b9e147.png",
+        "name": "蔬菜"
+      }
+    ],
+    "id": 330,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/bc6ac50a97ae3a32f46a3cf2d697464bcec4613e.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "北京填鸭",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 413,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/3e1eff9b82e42cf62e7766e0b2f825895479a03b.png",
+        "name": "鸡蛋"
+      },
+      {
+        "id": 402,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/ff7147a745472f8e95b444e88f559a1e94528162.png",
+        "name": "面粉"
+      }
+    ],
+    "id": 331,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/e51f196af0652e949a1941e9f2393103388e2b61.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "精灵秘方",
+    "num": 3,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "id": 332,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/5e37f4bdfb938ca456f02bb788e280d6d9242e4e.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "土豆泥",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 414,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/5def3384d17c44f0de0365e4b5a33fbdea0ab822.png",
+        "name": "猪肉"
+      },
+      {
+        "id": 402,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/ff7147a745472f8e95b444e88f559a1e94528162.png",
+        "name": "面粉"
+      }
+    ],
+    "id": 333,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/36df746734239b230759ccb56e8801494015c0b8.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "碗杂",
+    "num": 6,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 406,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/afa4b78a775bc821367cfe37267bf60fe7df3c03.png",
+        "name": "鸡肉"
+      },
+      {
+        "id": 405,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/f40e1f91e2b48bc594d73002d66a29acbb7c096a.png",
+        "name": "香料"
+      }
+    ],
+    "id": 335,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/c3c4c75949996ad7604d740754c2a4ce64fe94c8.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "上好的岩盐",
+    "num": 3,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 409,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/2c6d12ab960b455cd9afd043a2cc5da223b9e147.png",
+        "name": "蔬菜"
+      },
+      {
+        "id": 407,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/21e851aa54bd82f25dfadf48f5ae73ded131bb0b.png",
+        "name": "油"
+      }
+    ],
+    "id": 338,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/ecdbc272cb031ff23b2d4eae32d8bed134ca7dd3.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "打折牛排",
+    "num": 3,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 409,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/2c6d12ab960b455cd9afd043a2cc5da223b9e147.png",
+        "name": "蔬菜"
+      },
+      {
+        "id": 414,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/5def3384d17c44f0de0365e4b5a33fbdea0ab822.png",
+        "name": "猪肉"
+      }
+    ],
+    "id": 339,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/67dc2fc224ae15d05bf60820c022e225108bdcdf.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "甜甜圈",
+    "num": 4,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "id": 340,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/6e3cfc74f2a2253d0e0bf299df465a4c40bfb000.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "手工肉松",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 402,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/ff7147a745472f8e95b444e88f559a1e94528162.png",
+        "name": "面粉"
+      },
+      {
+        "id": 411,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/33bd1ab507f3ddf5b98a64a33f4845d7744871fe.png",
+        "name": "糖"
+      }
+    ],
+    "id": 341,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/d5035557751136f11c22ce80e83eebfccec9542e.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "酥皮",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 408,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/02397936e6a637ec7ce3dc4e48dd84aea5622278.png",
+        "name": "盐"
+      },
+      {
+        "id": 405,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/f40e1f91e2b48bc594d73002d66a29acbb7c096a.png",
+        "name": "香料"
+      }
+    ],
+    "id": 343,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/62b916c2e4b2797b1a765c76adcae933704acd9d.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "农家走地鸡",
+    "num": 4,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "id": 344,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/8ebf993c0ba1c513863ddac7546952887386f248.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "猪内脏",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "id": 346,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/951f042b92dd7ba0edd5df2ef83c9071af5cc4c5.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "淡水小龙虾",
+    "num": 2,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 403,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/9a99d779235d68bf9795bc6d46e5f8544509af2c.png",
+        "name": "水"
+      },
+      {
+        "id": 405,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/f40e1f91e2b48bc594d73002d66a29acbb7c096a.png",
+        "name": "香料"
+      }
+    ],
+    "id": 347,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/fd07f2da399c9422eba68a6078eac3e269147aae.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "羊肉卷",
+    "num": 2,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 406,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/afa4b78a775bc821367cfe37267bf60fe7df3c03.png",
+        "name": "鸡肉"
+      },
+      {
+        "id": 409,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/2c6d12ab960b455cd9afd043a2cc5da223b9e147.png",
+        "name": "蔬菜"
+      }
+    ],
+    "id": 348,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/79c9fb2fe063b097938f9f0197470d438963f1cd.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "蘑菇大杂烩",
+    "num": 7,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 416,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/161138b21dd67abcf2673877aea6e801d958fa98.png",
+        "name": "羊肉"
+      },
+      {
+        "id": 409,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/2c6d12ab960b455cd9afd043a2cc5da223b9e147.png",
+        "name": "蔬菜"
+      }
+    ],
+    "id": 349,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/9871b35c26db38a6075dfc21fe01dedd742f43c2.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "胡萝卜和干果",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 412,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/adf99d4e5005e2d89ce3751743b655f4ac708fc9.png",
+        "name": "酱料"
+      },
+      {
+        "id": 407,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/21e851aa54bd82f25dfadf48f5ae73ded131bb0b.png",
+        "name": "油"
+      }
+    ],
+    "id": 350,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/e9e4f544f653fc058593ac2c14ee97933946cd7c.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "新鲜响螺片",
+    "num": 6,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 405,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/f40e1f91e2b48bc594d73002d66a29acbb7c096a.png",
+        "name": "香料"
+      },
+      {
+        "id": 409,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/2c6d12ab960b455cd9afd043a2cc5da223b9e147.png",
+        "name": "蔬菜"
+      }
+    ],
+    "id": 352,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/77cebba46589471d381e8c0d8d899c6b6148439d.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "伊比利亚猪排",
+    "num": 2,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 407,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/21e851aa54bd82f25dfadf48f5ae73ded131bb0b.png",
+        "name": "油"
+      },
+      {
+        "id": 405,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/f40e1f91e2b48bc594d73002d66a29acbb7c096a.png",
+        "name": "香料"
+      }
+    ],
+    "id": 354,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/6d027f055e574296186e6ea70d2c5404abc6706b.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "大猪眼睛",
+    "num": 4,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 412,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/adf99d4e5005e2d89ce3751743b655f4ac708fc9.png",
+        "name": "酱料"
+      },
+      {
+        "id": 405,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/f40e1f91e2b48bc594d73002d66a29acbb7c096a.png",
+        "name": "香料"
+      }
+    ],
+    "id": 355,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/379f04bdde4de88a77122cf6053bebbbc7d06e4f.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "羊枪",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 407,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/21e851aa54bd82f25dfadf48f5ae73ded131bb0b.png",
+        "name": "油"
+      },
+      {
+        "id": 408,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/02397936e6a637ec7ce3dc4e48dd84aea5622278.png",
+        "name": "盐"
+      }
+    ],
+    "id": 356,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/1b1c595ea1ea4b24105043764cd1e520eaaefa19.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "生牛乳",
+    "num": 2,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 407,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/21e851aa54bd82f25dfadf48f5ae73ded131bb0b.png",
+        "name": "油"
+      },
+      {
+        "id": 405,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/f40e1f91e2b48bc594d73002d66a29acbb7c096a.png",
+        "name": "香料"
+      }
+    ],
+    "id": 358,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/5586f080a4c184f03679db306f7a86187733aa3c.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "小龙虾",
+    "num": 6,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 401,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/88bdc94752fc95e6eacb4d6deca443a0a9a0d122.png",
+        "name": "大米"
+      },
+      {
+        "id": 412,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/adf99d4e5005e2d89ce3751743b655f4ac708fc9.png",
+        "name": "酱料"
+      }
+    ],
+    "id": 359,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/9594e332911bc6d048e22522a2be1b658080637b.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "鳗鱼",
+    "num": 4,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 403,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/9a99d779235d68bf9795bc6d46e5f8544509af2c.png",
+        "name": "水"
+      },
+      {
+        "id": 408,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/02397936e6a637ec7ce3dc4e48dd84aea5622278.png",
+        "name": "盐"
+      }
+    ],
+    "id": 360,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/31562640c66234520c5c62fd80043340eb43b73d.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "天牛幼虫",
+    "num": 2,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "id": 361,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/e16ac22e1b40f00f2d37cf43e9545505016ecd49.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "甜酥油",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "id": 362,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/cf492f25ab45390f936ac6801b9e580b01e386bd.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "普宁豆酱",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 403,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/9a99d779235d68bf9795bc6d46e5f8544509af2c.png",
+        "name": "水"
+      },
+      {
+        "id": 455,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/f5d75edf191a22a620b2fafd1589b62e7bcb6f46.png",
+        "name": "酒"
+      }
+    ],
+    "id": 363,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/c813d22b360c8bed669ee6ab6348007e9b33b8d9.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "黑松露",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 411,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/33bd1ab507f3ddf5b98a64a33f4845d7744871fe.png",
+        "name": "糖"
+      },
+      {
+        "id": 415,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/6cd1d52ae6a3934b2366088e2057881d30e8c009.png",
+        "name": "奶油"
+      }
+    ],
+    "id": 365,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/9d9d969dcde15f783e8420e79f2510f757ca26ba.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "玉米粒",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  }
+]
