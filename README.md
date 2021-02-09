@@ -1,7 +1,9 @@
 由于不想搞账号密码等较为复杂的方法，采用复制页面json
 
 链接 https://www.bilibili.com/blackboard/activity-yeGIPr7OX.html?from=native&share_medium=android&share_plat=android&share_source=QQ&share_tag=s_i&timestamp=1612692228&unique_k=EFDQTP#
-打开F12  将该区块设为 display：none
+
+打开F12  同时设置页面为手机
+将该区块设为 display：none
 
 ![](页面.png)
 
