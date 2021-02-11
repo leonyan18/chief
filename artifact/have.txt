@@ -1248,5 +1248,73 @@
     "season_type_name": "国创",
     "share_token": "031a7",
     "type": 1
+  },
+  {
+    "assist_ingredients": [
+      {
+        "id": 402,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/ff7147a745472f8e95b444e88f559a1e94528162.png",
+        "name": "面粉"
+      },
+      {
+        "id": 452,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/f49229d20a7373f1cb9e12b4c4a4dbcb83e6dc94.png",
+        "name": "黄油"
+      }
+    ],
+    "core_ingredient": {
+      "id": 311,
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/ce18d0f1e9b65bc5fdeeaf5e9d5e67535bef05aa.png",
+      "name": "雷格姆的蛋"
+    },
+    "ep_title": "第7话 校服和被毛更深处的",
+    "id": 111,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/54905835f52cb25e3dff051dbe72761c5fda050d.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": true,
+    "link": "https://www.bilibili.com/bangumi/play/ep285060?from_spmid=888.27041.0.0",
+    "mtime": 1613015994,
+    "name": "鸡蛋三明治",
+    "num": 1,
+    "rarity": "SR",
+    "season_title": "动物狂想曲 / BEASTARS",
+    "season_type_name": "番剧",
+    "share_token": "5cdae",
+    "type": 1
+  },
+  {
+    "assist_ingredients": [
+      {
+        "id": 405,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/f40e1f91e2b48bc594d73002d66a29acbb7c096a.png",
+        "name": "香料"
+      },
+      {
+        "id": 459,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/c835bf7480a2f4b15760a80dfdad94ab0c75388f.png",
+        "name": "螃蟹"
+      }
+    ],
+    "core_ingredient": {
+      "id": 362,
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/cf492f25ab45390f936ac6801b9e580b01e386bd.png",
+      "name": "普宁豆酱"
+    },
+    "ep_title": "第1集 南北",
+    "id": 162,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/68bce7c6232a78a939c81143f2d76e3949b3b4c8.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": true,
+    "link": "https://www.bilibili.com/bangumi/play/ep326607?from_spmid=888.27041.0.0",
+    "mtime": 1613015973,
+    "name": "潮汕豆酱焗蟹",
+    "num": 1,
+    "rarity": "SR",
+    "season_title": "螃蟹的征途",
+    "season_type_name": "纪录片",
+    "share_token": "7f2e2",
+    "type": 1
   }
 ]

@@ -2,6 +2,11 @@
 
 链接 https://www.bilibili.com/blackboard/activity-yeGIPr7OX.html?from=native&share_medium=android&share_plat=android&share_source=QQ&share_tag=s_i&timestamp=1612692228&unique_k=EFDQTP#
 
+
+如果没有编译环境的直接在artifact下操作
+然后在使用java -jar chief.jar
+
+
 打开F12  同时设置页面为手机
 将该区块设为 display：none
 
@@ -19,6 +24,7 @@
 复制上图中的assist_ingredients的值到ingredient.txt
 
 复制上图中的core_ingredients的值到core.txt
+
 
 有用的给个助力？有问题看到了就回复
 https://www.bilibili.com/blackboard/activity-Z-v-4R3hH.html?btoken=4f4b9291fcbc0303e38031116a371dee%2F23504225&ts=1612874453065

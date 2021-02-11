@@ -182,30 +182,6 @@
   {
     "core_with_assist": [
       {
-        "id": 402,
-        "img": "http://i0.hdslb.com/bfs/bangumi/image/ff7147a745472f8e95b444e88f559a1e94528162.png",
-        "name": "面粉"
-      },
-      {
-        "id": 452,
-        "img": "http://i0.hdslb.com/bfs/bangumi/image/f49229d20a7373f1cb9e12b4c4a4dbcb83e6dc94.png",
-        "name": "黄油"
-      }
-    ],
-    "id": 311,
-    "img": "http://i0.hdslb.com/bfs/bangumi/image/ce18d0f1e9b65bc5fdeeaf5e9d5e67535bef05aa.png",
-    "is_can_compose": false,
-    "is_signature_dish": false,
-    "is_unlock_menu": false,
-    "mtime": 0,
-    "name": "雷格姆的蛋",
-    "num": 1,
-    "rarity": "",
-    "type": 3
-  },
-  {
-    "core_with_assist": [
-      {
         "id": 403,
         "img": "http://i0.hdslb.com/bfs/bangumi/image/9a99d779235d68bf9795bc6d46e5f8544509af2c.png",
         "name": "水"
@@ -223,7 +199,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "狗尾巴草面粉",
-    "num": 4,
+    "num": 5,
     "rarity": "",
     "type": 3
   },
@@ -295,7 +271,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "红小豆",
-    "num": 4,
+    "num": 5,
     "rarity": "",
     "type": 3
   },
@@ -523,7 +499,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "肯达基本地鸡",
-    "num": 9,
+    "num": 10,
     "rarity": "",
     "type": 3
   },
@@ -655,7 +631,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "上好的岩盐",
-    "num": 3,
+    "num": 4,
     "rarity": "",
     "type": 3
   },
@@ -919,7 +895,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "新鲜响螺片",
-    "num": 6,
+    "num": 7,
     "rarity": "",
     "type": 3
   },
@@ -1188,18 +1164,6 @@
     "type": 3
   },
   {
-    "id": 362,
-    "img": "http://i0.hdslb.com/bfs/bangumi/image/cf492f25ab45390f936ac6801b9e580b01e386bd.png",
-    "is_can_compose": false,
-    "is_signature_dish": false,
-    "is_unlock_menu": false,
-    "mtime": 0,
-    "name": "普宁豆酱",
-    "num": 1,
-    "rarity": "",
-    "type": 3
-  },
-  {
     "core_with_assist": [
       {
         "id": 403,
@@ -1219,6 +1183,30 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "黑松露",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 405,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/f40e1f91e2b48bc594d73002d66a29acbb7c096a.png",
+        "name": "香料"
+      },
+      {
+        "id": 408,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/02397936e6a637ec7ce3dc4e48dd84aea5622278.png",
+        "name": "盐"
+      }
+    ],
+    "id": 364,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/f6853417b4afb74ed6f3f956864ad0c9a30255bd.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "向日癸籽",
     "num": 1,
     "rarity": "",
     "type": 3

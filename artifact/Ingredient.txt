@@ -7,7 +7,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "大米",
-    "num": 29,
+    "num": 31,
     "rarity": "",
     "type": 4
   },
@@ -19,7 +19,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "面粉",
-    "num": 72,
+    "num": 73,
     "rarity": "",
     "type": 4
   },
@@ -55,7 +55,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "香料",
-    "num": 82,
+    "num": 81,
     "rarity": "",
     "type": 4
   },
@@ -79,7 +79,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "油",
-    "num": 45,
+    "num": 46,
     "rarity": "",
     "type": 4
   },
@@ -103,7 +103,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "蔬菜",
-    "num": 56,
+    "num": 57,
     "rarity": "",
     "type": 4
   },
@@ -127,7 +127,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "糖",
-    "num": 37,
+    "num": 38,
     "rarity": "",
     "type": 4
   },
@@ -139,7 +139,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "酱料",
-    "num": 21,
+    "num": 22,
     "rarity": "",
     "type": 4
   },
@@ -163,7 +163,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "猪肉",
-    "num": 14,
+    "num": 15,
     "rarity": "",
     "type": 4
   },
@@ -189,30 +189,6 @@
     "name": "羊肉",
     "num": 4,
     "rarity": "",
-    "type": 4
-  },
-  {
-    "id": 452,
-    "img": "http://i0.hdslb.com/bfs/bangumi/image/f49229d20a7373f1cb9e12b4c4a4dbcb83e6dc94.png",
-    "is_can_compose": false,
-    "is_signature_dish": false,
-    "is_unlock_menu": false,
-    "mtime": 0,
-    "name": "黄油",
-    "num": 1,
-    "rarity": "SR",
-    "type": 4
-  },
-  {
-    "id": 459,
-    "img": "http://i0.hdslb.com/bfs/bangumi/image/c835bf7480a2f4b15760a80dfdad94ab0c75388f.png",
-    "is_can_compose": false,
-    "is_signature_dish": false,
-    "is_unlock_menu": false,
-    "mtime": 0,
-    "name": "螃蟹",
-    "num": 1,
-    "rarity": "SR",
     "type": 4
   }
 ]
