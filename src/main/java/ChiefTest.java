@@ -10,17 +10,17 @@ import java.util.Map;
 
 public class ChiefTest {
     public static void main(String[] args) throws IOException {
-        String unlockedStr = getFileContent("have.txt");
+        String unlockedStr = getFileContent(".\\src\\main\\resources\\have.txt");
         List<Dish> unLockedDishes = JSONObject.parseArray(unlockedStr, Dish.class);
         Map<String, Boolean> unLockedDisheMap = new HashMap<String, Boolean>(64);
         for (Dish d : unLockedDishes) {
             unLockedDisheMap.put(d.getName(), true);
         }
-        String assist_ingredients = getFileContent("ingredient.txt");
+        String assist_ingredients = getFileContent(".\\src\\main\\resources\\ingredient.txt");
         Map<String, Boolean> assist_ingredientMap = getMap(assist_ingredients);
-        String core = getFileContent("core.txt");
+        String core = getFileContent(".\\src\\main\\resources\\core.txt");
         Map<String, Boolean> coreMap = getMap(core);
-        String all = getFileContent("all.txt");
+        String all = getFileContent(".\\src\\main\\resources\\all.txt");
         String[] dish = all.split("\r\n");
         Boolean nothing = true;
         System.out.println("务必按照顺序做菜，取得最优解");
