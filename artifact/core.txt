@@ -19,7 +19,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "鸡蛋冻",
-    "num": 1,
+    "num": 3,
     "rarity": "",
     "type": 3
   },
@@ -43,7 +43,31 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "叉烧肉",
-    "num": 6,
+    "num": 10,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 402,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/ff7147a745472f8e95b444e88f559a1e94528162.png",
+        "name": "面粉"
+      },
+      {
+        "id": 407,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/21e851aa54bd82f25dfadf48f5ae73ded131bb0b.png",
+        "name": "油"
+      }
+    ],
+    "id": 303,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/35a8ede4805bda0538a357d25f6e5234056bf4eb.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "章鱼须",
+    "num": 1,
     "rarity": "",
     "type": 3
   },
@@ -72,6 +96,18 @@
     "type": 3
   },
   {
+    "core_with_assist": [
+      {
+        "id": 402,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/ff7147a745472f8e95b444e88f559a1e94528162.png",
+        "name": "面粉"
+      },
+      {
+        "id": 452,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/f49229d20a7373f1cb9e12b4c4a4dbcb83e6dc94.png",
+        "name": "黄油"
+      }
+    ],
     "id": 305,
     "img": "http://i0.hdslb.com/bfs/bangumi/image/33c4d702494e10b7f2dfb41e44c500830a41b972.png",
     "is_can_compose": false,
@@ -103,7 +139,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "蛤蜊",
-    "num": 1,
+    "num": 2,
     "rarity": "",
     "type": 3
   },
@@ -151,7 +187,31 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "生姜酱",
-    "num": 5,
+    "num": 7,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 407,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/21e851aa54bd82f25dfadf48f5ae73ded131bb0b.png",
+        "name": "油"
+      },
+      {
+        "id": 453,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/88af136170ba635edf491ffce410dd604a18fdc0.png",
+        "name": "复合调味料"
+      }
+    ],
+    "id": 309,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/fc15f0e1faaaf38ad08dd554e7d072bb01f555de.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "龙尾肉",
+    "num": 2,
     "rarity": "",
     "type": 3
   },
@@ -182,6 +242,30 @@
   {
     "core_with_assist": [
       {
+        "id": 402,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/ff7147a745472f8e95b444e88f559a1e94528162.png",
+        "name": "面粉"
+      },
+      {
+        "id": 452,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/f49229d20a7373f1cb9e12b4c4a4dbcb83e6dc94.png",
+        "name": "黄油"
+      }
+    ],
+    "id": 311,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/ce18d0f1e9b65bc5fdeeaf5e9d5e67535bef05aa.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "雷格姆的蛋",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
         "id": 403,
         "img": "http://i0.hdslb.com/bfs/bangumi/image/9a99d779235d68bf9795bc6d46e5f8544509af2c.png",
         "name": "水"
@@ -199,7 +283,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "狗尾巴草面粉",
-    "num": 5,
+    "num": 8,
     "rarity": "",
     "type": 3
   },
@@ -223,7 +307,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "青花鱼罐头",
-    "num": 7,
+    "num": 13,
     "rarity": "",
     "type": 3
   },
@@ -271,7 +355,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "红小豆",
-    "num": 5,
+    "num": 8,
     "rarity": "",
     "type": 3
   },
@@ -295,7 +379,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "牛杂",
-    "num": 5,
+    "num": 9,
     "rarity": "",
     "type": 3
   },
@@ -319,7 +403,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "牛丸",
-    "num": 3,
+    "num": 8,
     "rarity": "",
     "type": 3
   },
@@ -343,11 +427,71 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "海参",
-    "num": 5,
+    "num": 7,
     "rarity": "",
     "type": 3
   },
   {
+    "core_with_assist": [
+      {
+        "id": 404,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/490472cdecf44b7da2b472f6cba70c0984146287.png",
+        "name": "鱼"
+      },
+      {
+        "id": 455,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/f5d75edf191a22a620b2fafd1589b62e7bcb6f46.png",
+        "name": "酒"
+      }
+    ],
+    "id": 319,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/20f1e413032de4930c7a47bd4ba71c877dbcd799.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "三昧真火",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 402,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/ff7147a745472f8e95b444e88f559a1e94528162.png",
+        "name": "面粉"
+      },
+      {
+        "id": 456,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/2bf5f64d5d627f1e8ddf8d2795d9abba038f6601.png",
+        "name": "果仁"
+      }
+    ],
+    "id": 320,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/7d6a9bd9bfd9c70d60f96b979701b144144cc919.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "其他四仁",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 411,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/33bd1ab507f3ddf5b98a64a33f4845d7744871fe.png",
+        "name": "糖"
+      },
+      {
+        "id": 457,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/c12c414aafea4bdb0acc72ef27be454e476bcae4.png",
+        "name": "莲子"
+      }
+    ],
     "id": 321,
     "img": "http://i0.hdslb.com/bfs/bangumi/image/cf0184c90cfd032aa9f4ef3dc13a77dd03aa7e1b.png",
     "is_can_compose": false,
@@ -355,6 +499,30 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "桂花",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 411,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/33bd1ab507f3ddf5b98a64a33f4845d7744871fe.png",
+        "name": "糖"
+      },
+      {
+        "id": 453,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/88af136170ba635edf491ffce410dd604a18fdc0.png",
+        "name": "复合调味料"
+      }
+    ],
+    "id": 322,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/158b68c3cf273535c6cfe2ce76560c68a260b0cb.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "含鼻涕的香精",
     "num": 1,
     "rarity": "",
     "type": 3
@@ -379,7 +547,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "三叶的唾液",
-    "num": 5,
+    "num": 6,
     "rarity": "",
     "type": 3
   },
@@ -451,7 +619,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "鸡蛋韭菜馅料",
-    "num": 5,
+    "num": 6,
     "rarity": "",
     "type": 3
   },
@@ -475,7 +643,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "海苔味薯片",
-    "num": 3,
+    "num": 4,
     "rarity": "",
     "type": 3
   },
@@ -499,7 +667,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "肯达基本地鸡",
-    "num": 10,
+    "num": 13,
     "rarity": "",
     "type": 3
   },
@@ -547,7 +715,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "北京填鸭",
-    "num": 3,
+    "num": 4,
     "rarity": "",
     "type": 3
   },
@@ -571,11 +739,23 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "精灵秘方",
-    "num": 4,
+    "num": 8,
     "rarity": "",
     "type": 3
   },
   {
+    "core_with_assist": [
+      {
+        "id": 407,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/21e851aa54bd82f25dfadf48f5ae73ded131bb0b.png",
+        "name": "油"
+      },
+      {
+        "id": 458,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/6a6af0347389958606e0a55ebbba990a5d268f17.png",
+        "name": "面包糠"
+      }
+    ],
     "id": 332,
     "img": "http://i0.hdslb.com/bfs/bangumi/image/5e37f4bdfb938ca456f02bb788e280d6d9242e4e.png",
     "is_can_compose": false,
@@ -583,7 +763,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "土豆泥",
-    "num": 1,
+    "num": 2,
     "rarity": "",
     "type": 3
   },
@@ -638,6 +818,54 @@
   {
     "core_with_assist": [
       {
+        "id": 414,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/5def3384d17c44f0de0365e4b5a33fbdea0ab822.png",
+        "name": "猪肉"
+      },
+      {
+        "id": 453,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/88af136170ba635edf491ffce410dd604a18fdc0.png",
+        "name": "复合调味料"
+      }
+    ],
+    "id": 336,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/d1bc7cdd91bf8165ffc17ae1cbf8644d7838ea0d.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "猪肠衣",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 406,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/afa4b78a775bc821367cfe37267bf60fe7df3c03.png",
+        "name": "鸡肉"
+      },
+      {
+        "id": 453,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/88af136170ba635edf491ffce410dd604a18fdc0.png",
+        "name": "复合调味料"
+      }
+    ],
+    "id": 337,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/24507555cff058f0d8264c25f9a504bdf19c9100.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "油浸茄子",
+    "num": 1,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
         "id": 409,
         "img": "http://i0.hdslb.com/bfs/bangumi/image/2c6d12ab960b455cd9afd043a2cc5da223b9e147.png",
         "name": "蔬菜"
@@ -655,7 +883,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "打折牛排",
-    "num": 6,
+    "num": 7,
     "rarity": "",
     "type": 3
   },
@@ -679,7 +907,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "甜甜圈",
-    "num": 5,
+    "num": 8,
     "rarity": "",
     "type": 3
   },
@@ -703,7 +931,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "手工肉松",
-    "num": 1,
+    "num": 2,
     "rarity": "",
     "type": 3
   },
@@ -727,7 +955,31 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "酥皮",
-    "num": 2,
+    "num": 7,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 408,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/02397936e6a637ec7ce3dc4e48dd84aea5622278.png",
+        "name": "盐"
+      },
+      {
+        "id": 459,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/c835bf7480a2f4b15760a80dfdad94ab0c75388f.png",
+        "name": "螃蟹"
+      }
+    ],
+    "id": 342,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/d64f05d13dd8943fc195bf7caa992b2b1d6fb8f9.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "鹅肝",
+    "num": 1,
     "rarity": "",
     "type": 3
   },
@@ -751,7 +1003,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "农家走地鸡",
-    "num": 4,
+    "num": 11,
     "rarity": "",
     "type": 3
   },
@@ -780,6 +1032,18 @@
     "type": 3
   },
   {
+    "core_with_assist": [
+      {
+        "id": 415,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/6cd1d52ae6a3934b2366088e2057881d30e8c009.png",
+        "name": "奶油"
+      },
+      {
+        "id": 461,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/37a0c8c4be22b8f1d1e27c7e1709abf21a9a0566.png",
+        "name": "水果"
+      }
+    ],
     "id": 345,
     "img": "http://i0.hdslb.com/bfs/bangumi/image/d51c5cffed7bd6056b2aba86ba73662ec62ebafc.png",
     "is_can_compose": false,
@@ -787,11 +1051,23 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "低筋小麦粉",
-    "num": 2,
+    "num": 3,
     "rarity": "",
     "type": 3
   },
   {
+    "core_with_assist": [
+      {
+        "id": 412,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/adf99d4e5005e2d89ce3751743b655f4ac708fc9.png",
+        "name": "酱料"
+      },
+      {
+        "id": 462,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/ce36a588192fbf99fbac7abf89d606351d3108ae.png",
+        "name": "辣椒"
+      }
+    ],
     "id": 346,
     "img": "http://i0.hdslb.com/bfs/bangumi/image/951f042b92dd7ba0edd5df2ef83c9071af5cc4c5.png",
     "is_can_compose": false,
@@ -799,7 +1075,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "淡水小龙虾",
-    "num": 2,
+    "num": 3,
     "rarity": "",
     "type": 3
   },
@@ -823,7 +1099,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "羊肉卷",
-    "num": 3,
+    "num": 8,
     "rarity": "",
     "type": 3
   },
@@ -847,7 +1123,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "蘑菇大杂烩",
-    "num": 13,
+    "num": 16,
     "rarity": "",
     "type": 3
   },
@@ -871,7 +1147,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "胡萝卜和干果",
-    "num": 4,
+    "num": 8,
     "rarity": "",
     "type": 3
   },
@@ -943,7 +1219,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "伊比利亚猪排",
-    "num": 4,
+    "num": 8,
     "rarity": "",
     "type": 3
   },
@@ -991,7 +1267,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "大猪眼睛",
-    "num": 7,
+    "num": 10,
     "rarity": "",
     "type": 3
   },
@@ -1015,7 +1291,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "羊枪",
-    "num": 2,
+    "num": 3,
     "rarity": "",
     "type": 3
   },
@@ -1039,7 +1315,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "生牛乳",
-    "num": 4,
+    "num": 6,
     "rarity": "",
     "type": 3
   },
@@ -1087,7 +1363,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "小龙虾",
-    "num": 7,
+    "num": 8,
     "rarity": "",
     "type": 3
   },
@@ -1111,7 +1387,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "鳗鱼",
-    "num": 5,
+    "num": 6,
     "rarity": "",
     "type": 3
   },
@@ -1135,7 +1411,7 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "天牛幼虫",
-    "num": 4,
+    "num": 7,
     "rarity": "",
     "type": 3
   },
@@ -1159,7 +1435,31 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "甜酥油",
-    "num": 2,
+    "num": 3,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 405,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/f40e1f91e2b48bc594d73002d66a29acbb7c096a.png",
+        "name": "香料"
+      },
+      {
+        "id": 459,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/c835bf7480a2f4b15760a80dfdad94ab0c75388f.png",
+        "name": "螃蟹"
+      }
+    ],
+    "id": 362,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/cf492f25ab45390f936ac6801b9e580b01e386bd.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "普宁豆酱",
+    "num": 1,
     "rarity": "",
     "type": 3
   },
@@ -1231,6 +1531,30 @@
     "is_unlock_menu": false,
     "mtime": 0,
     "name": "玉米粒",
+    "num": 2,
+    "rarity": "",
+    "type": 3
+  },
+  {
+    "core_with_assist": [
+      {
+        "id": 413,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/3e1eff9b82e42cf62e7766e0b2f825895479a03b.png",
+        "name": "鸡蛋"
+      },
+      {
+        "id": 409,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/2c6d12ab960b455cd9afd043a2cc5da223b9e147.png",
+        "name": "蔬菜"
+      }
+    ],
+    "id": 366,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/8bfb378da58c10ea95492124bf087be35de307ea.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": false,
+    "mtime": 0,
+    "name": "煎烤香肠",
     "num": 1,
     "rarity": "",
     "type": 3

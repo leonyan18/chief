@@ -2,6 +2,142 @@
   {
     "assist_ingredients": [
       {
+        "id": 405,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/f40e1f91e2b48bc594d73002d66a29acbb7c096a.png",
+        "name": "香料"
+      },
+      {
+        "id": 409,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/2c6d12ab960b455cd9afd043a2cc5da223b9e147.png",
+        "name": "蔬菜"
+      }
+    ],
+    "core_ingredient": {
+      "id": 352,
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/77cebba46589471d381e8c0d8d899c6b6148439d.png",
+      "name": "伊比利亚猪排"
+    },
+    "ep_title": "石原里美的西班牙本色旅行",
+    "id": 152,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/1f6d743a7b6cdbdddc83e5568717079aa89b7f92.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": true,
+    "link": "https://www.bilibili.com/bangumi/play/ep314665?from_spmid=888.27041.0.0",
+    "mtime": 1613458174,
+    "name": "伊比利亚猪排",
+    "num": 1,
+    "rarity": "N",
+    "season_title": "石原里美的西班牙本色旅行",
+    "season_type_name": "综艺",
+    "share_token": "daf10",
+    "type": 1
+  },
+  {
+    "assist_ingredients": [
+      {
+        "id": 402,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/ff7147a745472f8e95b444e88f559a1e94528162.png",
+        "name": "面粉"
+      },
+      {
+        "id": 407,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/21e851aa54bd82f25dfadf48f5ae73ded131bb0b.png",
+        "name": "油"
+      }
+    ],
+    "core_ingredient": {
+      "id": 303,
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/35a8ede4805bda0538a357d25f6e5234056bf4eb.png",
+      "name": "章鱼须"
+    },
+    "ep_title": "第5话 死囚漫步",
+    "id": 103,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/6d758b864f656db8e6e7140cfd6d575a72851987.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": true,
+    "link": "https://www.bilibili.com/bangumi/play/ep341176?from_spmid=888.27041.0.0",
+    "mtime": 1613346669,
+    "name": "章鱼小丸子",
+    "num": 1,
+    "rarity": "N",
+    "season_title": "全员恶玉",
+    "season_type_name": "番剧",
+    "share_token": "47879",
+    "type": 1
+  },
+  {
+    "assist_ingredients": [
+      {
+        "id": 401,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/88bdc94752fc95e6eacb4d6deca443a0a9a0d122.png",
+        "name": "大米"
+      },
+      {
+        "id": 405,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/f40e1f91e2b48bc594d73002d66a29acbb7c096a.png",
+        "name": "香料"
+      }
+    ],
+    "core_ingredient": {
+      "id": 301,
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/ab9831b79d411935478b233e256a898d8b81e14b.png",
+      "name": "鸡蛋冻"
+    },
+    "ep_title": "第2话 神之舌",
+    "id": 101,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/0c501099c8b9a83fdd0b6189b9767f1a1ad90ea7.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": true,
+    "link": "https://www.bilibili.com/bangumi/play/ep29099?from_spmid=888.27041.0.0",
+    "mtime": 1613051937,
+    "name": "鸡蛋拌饭",
+    "num": 1,
+    "rarity": "N",
+    "season_title": "食戟之灵",
+    "season_type_name": "番剧",
+    "share_token": "27eac",
+    "type": 1
+  },
+  {
+    "assist_ingredients": [
+      {
+        "id": 405,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/f40e1f91e2b48bc594d73002d66a29acbb7c096a.png",
+        "name": "香料"
+      },
+      {
+        "id": 408,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/02397936e6a637ec7ce3dc4e48dd84aea5622278.png",
+        "name": "盐"
+      }
+    ],
+    "core_ingredient": {
+      "id": 364,
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/f6853417b4afb74ed6f3f956864ad0c9a30255bd.png",
+      "name": "向日癸籽"
+    },
+    "ep_title": "一起看放映室专享菜肴",
+    "id": 164,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/aab79c927559cd06ef28707373fa39cb43442143.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": true,
+    "link": "bilibili://pgc/theater/square",
+    "mtime": 1613019685,
+    "name": "一起嗑瓜子",
+    "num": 1,
+    "rarity": "N",
+    "season_title": "",
+    "season_type_name": "",
+    "share_token": "bfc9c",
+    "type": 1
+  },
+  {
+    "assist_ingredients": [
+      {
         "id": 413,
         "img": "http://i0.hdslb.com/bfs/bangumi/image/3e1eff9b82e42cf62e7766e0b2f825895479a03b.png",
         "name": "鸡蛋"
@@ -99,40 +235,6 @@
     "season_title": "极限挑战 第四季",
     "season_type_name": "综艺",
     "share_token": "3bdc7",
-    "type": 1
-  },
-  {
-    "assist_ingredients": [
-      {
-        "id": 401,
-        "img": "http://i0.hdslb.com/bfs/bangumi/image/88bdc94752fc95e6eacb4d6deca443a0a9a0d122.png",
-        "name": "大米"
-      },
-      {
-        "id": 405,
-        "img": "http://i0.hdslb.com/bfs/bangumi/image/f40e1f91e2b48bc594d73002d66a29acbb7c096a.png",
-        "name": "香料"
-      }
-    ],
-    "core_ingredient": {
-      "id": 301,
-      "img": "http://i0.hdslb.com/bfs/bangumi/image/ab9831b79d411935478b233e256a898d8b81e14b.png",
-      "name": "鸡蛋冻"
-    },
-    "ep_title": "第2话 神之舌",
-    "id": 101,
-    "img": "http://i0.hdslb.com/bfs/bangumi/image/0c501099c8b9a83fdd0b6189b9767f1a1ad90ea7.png",
-    "is_can_compose": false,
-    "is_signature_dish": false,
-    "is_unlock_menu": true,
-    "link": "https://www.bilibili.com/bangumi/play/ep29099?from_spmid=888.27041.0.0",
-    "mtime": 1612941288,
-    "name": "鸡蛋拌饭",
-    "num": 2,
-    "rarity": "N",
-    "season_title": "食戟之灵",
-    "season_type_name": "番剧",
-    "share_token": "27eac",
     "type": 1
   },
   {
@@ -1263,6 +1365,40 @@
       }
     ],
     "core_ingredient": {
+      "id": 305,
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/33c4d702494e10b7f2dfb41e44c500830a41b972.png",
+      "name": "食用色素"
+    },
+    "ep_title": "第8话 英勇的战斗",
+    "id": 105,
+    "img": "http://i0.hdslb.com/bfs/bangumi/image/0fb54c1ff1f906e535caca6486fcdebae7db2dea.png",
+    "is_can_compose": false,
+    "is_signature_dish": false,
+    "is_unlock_menu": true,
+    "link": "https://www.bilibili.com/bangumi/play/ep21441?from_spmid=888.27041.0.0",
+    "mtime": 1613022921,
+    "name": "彩虹面包",
+    "num": 1,
+    "rarity": "SR",
+    "season_title": "CLANNAD ～AFTER STORY～",
+    "season_type_name": "番剧",
+    "share_token": "7fd52",
+    "type": 1
+  },
+  {
+    "assist_ingredients": [
+      {
+        "id": 402,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/ff7147a745472f8e95b444e88f559a1e94528162.png",
+        "name": "面粉"
+      },
+      {
+        "id": 452,
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/f49229d20a7373f1cb9e12b4c4a4dbcb83e6dc94.png",
+        "name": "黄油"
+      }
+    ],
+    "core_ingredient": {
       "id": 311,
       "img": "http://i0.hdslb.com/bfs/bangumi/image/ce18d0f1e9b65bc5fdeeaf5e9d5e67535bef05aa.png",
       "name": "雷格姆的蛋"
@@ -1281,40 +1417,6 @@
     "season_title": "动物狂想曲 / BEASTARS",
     "season_type_name": "番剧",
     "share_token": "5cdae",
-    "type": 1
-  },
-  {
-    "assist_ingredients": [
-      {
-        "id": 405,
-        "img": "http://i0.hdslb.com/bfs/bangumi/image/f40e1f91e2b48bc594d73002d66a29acbb7c096a.png",
-        "name": "香料"
-      },
-      {
-        "id": 459,
-        "img": "http://i0.hdslb.com/bfs/bangumi/image/c835bf7480a2f4b15760a80dfdad94ab0c75388f.png",
-        "name": "螃蟹"
-      }
-    ],
-    "core_ingredient": {
-      "id": 362,
-      "img": "http://i0.hdslb.com/bfs/bangumi/image/cf492f25ab45390f936ac6801b9e580b01e386bd.png",
-      "name": "普宁豆酱"
-    },
-    "ep_title": "第1集 南北",
-    "id": 162,
-    "img": "http://i0.hdslb.com/bfs/bangumi/image/68bce7c6232a78a939c81143f2d76e3949b3b4c8.png",
-    "is_can_compose": false,
-    "is_signature_dish": false,
-    "is_unlock_menu": true,
-    "link": "https://www.bilibili.com/bangumi/play/ep326607?from_spmid=888.27041.0.0",
-    "mtime": 1613015973,
-    "name": "潮汕豆酱焗蟹",
-    "num": 1,
-    "rarity": "SR",
-    "season_title": "螃蟹的征途",
-    "season_type_name": "纪录片",
-    "share_token": "7f2e2",
     "type": 1
   }
 ]

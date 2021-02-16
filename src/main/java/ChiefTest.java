@@ -10,22 +10,23 @@ import java.util.Map;
 
 public class ChiefTest {
     public static void main(String[] args) throws IOException {
-        String unlockedStr = getFileContent(".\\src\\main\\resources\\have.txt");
+        String unlockedStr = getFileContent("have.txt");
         List<Dish> unLockedDishes = JSONObject.parseArray(unlockedStr, Dish.class);
         Map<String, Boolean> unLockedDisheMap = new HashMap<String, Boolean>(64);
         for (Dish d : unLockedDishes) {
             unLockedDisheMap.put(d.getName(), true);
         }
-        String assist_ingredients = getFileContent(".\\src\\main\\resources\\ingredient.txt");
+        String assist_ingredients = getFileContent("ingredient.txt");
         Map<String, Boolean> assist_ingredientMap = getMap(assist_ingredients);
-        String core = getFileContent(".\\src\\main\\resources\\core.txt");
+        String core = getFileContent("core.txt");
         Map<String, Boolean> coreMap = getMap(core);
-        String all = getFileContent(".\\src\\main\\resources\\all.txt");
+        String all = getFileContent("all.txt");
         String[] dish = all.split("\r\n");
         Boolean nothing = true;
+        System.out.println("务必按照顺序做菜，取得最优解");
         for (String s : dish) {
-            String[] t = s.split(":");
-            Dish d = new Dish(t[0], t[1], t[2], t[3]);
+            String[] t = s.split("\t");
+            Dish d = new Dish(t[1], t[2], t[3], t[4]);
             if (!unLockedDisheMap.containsKey(d.getName())
                     && coreMap.containsKey(d.getCore())
                     && assist_ingredientMap.containsKey(d.getAssist_ingredient1())
@@ -34,10 +35,11 @@ public class ChiefTest {
                 nothing=false;
             }
         }
-        System.out.println("招牌菜除外");
         if(nothing){
             System.out.println("nothing");
             System.out.println("已解锁"+(unLockedDishes.size()+1)+"道菜");
+        }else{
+            System.out.println("招牌菜除外");
         }
     }
 
